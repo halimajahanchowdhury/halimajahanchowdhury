@@ -51,5 +51,5 @@ building projects while figuring things out<br>
 
 </div>
 
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/0332d412-2502-4b40-84cf-0a3f4aeb6fcf" />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/a6e6ed9e-badf-46c1-a9a7-dffb839c6c11" />
 
