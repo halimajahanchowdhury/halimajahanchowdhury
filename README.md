@@ -4,7 +4,11 @@
 </h1>
 
 <p align="left">
-CS student learning DSA & development.
+hi, i'm halima!!!
+final year cse student learning DSA, development and more..
+
+currently studying algorithms & development  
+building projects while figuring things out
 </p>
 
 ---
@@ -12,8 +16,7 @@ CS student learning DSA & development.
 <h2 align="left">currently</h2>
 
 <p align="left">
-studying algorithms & development<br>
-building projects while figuring things out<br>
+studying algorithms & development & building projects while figuring things out<br>
 </p>
 
 ---
