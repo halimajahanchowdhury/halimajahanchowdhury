@@ -6,9 +6,7 @@
 <p align="left">
 hi, i'm halima!!!
 final year cse student learning DSA, development and more..
-
-currently studying algorithms & development  
-building projects while figuring things out
+  
 </p>
 
 ---
@@ -16,7 +14,8 @@ building projects while figuring things out
 <h2 align="left">currently</h2>
 
 <p align="left">
-studying algorithms & development & building projects while figuring things out<br>
+studying algorithms & development<br>
+building projects while figuring things out<br>
 </p>
 
 ---
