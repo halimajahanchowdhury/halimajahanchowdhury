@@ -4,7 +4,6 @@
 </h1>
 
 <p align="left">
-hi, i'm halima!!!
 final year cse student learning DSA, development and more..
   
 </p>
