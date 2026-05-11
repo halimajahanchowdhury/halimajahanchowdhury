@@ -4,7 +4,7 @@
 </h1>
 
 <p align="left">
-final year cse student learning DSA, development and more..
+final year cse student learning DSA, web development and more..
   
 </p>
 
